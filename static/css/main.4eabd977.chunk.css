@@ -1,0 +1,2 @@
+.App{text-align:center}.list{display:grid;grid-template-columns:repeat(5,1fr);grid-gap:15px 5px}.card{display:flex;flex-wrap:wrap;flex-direction:column;justify-content:center;border:2px solid #000;align-items:center;text-align:center}.active{color:green}.disable{color:red}.card:hover{background-color:#f0f8ff}
+/*# sourceMappingURL=main.4eabd977.chunk.css.map */
